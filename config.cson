@@ -31,5 +31,7 @@
       fontFamily: "Source Code Pro for PowerLine"
       fontSize: "16"
       theme: "predawn"
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
