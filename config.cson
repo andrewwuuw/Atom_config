@@ -1,0 +1,35 @@
+"*":
+  core:
+    reopenProjectMenuCount: 20
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    fontSize: 17
+  "exception-reporting":
+    userId: "f6a6906d-17a6-480c-974d-8867cb2f7210"
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        black: "#003541"
+        blue: "#2fa7eb"
+        cyan: "#2aa198"
+        green: "#a2f54f"
+        magenta: "#d33682"
+        red: "#c95350"
+        white: "#eee8d5"
+        yellow: "#f7f16e"
+      zBright:
+        brightCyan: "#ff9369"
+    core:
+      mapTerminalsToAutoOpen: true
+    iconColors:
+      cyan: "#00f9f9"
+    style:
+      fontFamily: "Source Code Pro for PowerLine"
+      fontSize: "16"
+      theme: "predawn"
+  welcome:
+    showOnStartup: false
